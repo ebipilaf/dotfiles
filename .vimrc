@@ -7,7 +7,7 @@ set number
 set ruler
 set cursorline
 set autoindent
-set tabstop=4
+set tabstop=8
 set list listchars=tab:>-,trail:_,eol:<
 set notitle
 
